@@ -1,0 +1,28 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "bookcatkid.blackout_click",
+	"name": "Blackout Click",
+	"version": "v1.0.0",
+	"developer": "BookCatKid",
+	"description": "Black out your screen after every click",
+	"settings": {
+		"duration": {
+			"type": "float",
+			"default": 0.5,
+			"min": 0,
+			"max": 5,
+			"name": "Blackout Duration (seconds)"
+		},
+		"color": {
+			"type": "rgba",
+			"name": "Blackout Color",
+			"default": [0, 0, 0, 255]
+		}
+  }
+}

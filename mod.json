@@ -8,7 +8,7 @@
 	},
 	"id": "bookcatkid.blackout_click",
 	"name": "Blackout Click",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "BookCatKid",
 	"description": "Black out your screen after every click",
 	"links": {

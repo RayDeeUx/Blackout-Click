@@ -1,7 +1,7 @@
 # BlackoutClick
 A Geometry Dash mod that blacks out your screen after every click for an immersive challenge experience.
 
-<img src="logo2.png" align="center" width="150" alt="BlackoutClick mod logo" />
+<img src="logo2.png" alt="BlackoutClick mod logo" />
 
 ## Description
 BlackoutClick adds a unique twist to Geometry Dash gameplay by temporarily blacking out your screen after each click/tap. This creates an intense, memory-based challenge that tests your timing and level knowledge.

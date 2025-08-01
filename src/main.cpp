@@ -19,6 +19,7 @@ class $modify(PlayLayer) {
         return true;
     }
     void onExit() {
+        // Gameplay is ending
         g_isInLevel = false;
         PlayLayer::onExit();
     }

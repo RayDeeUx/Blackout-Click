@@ -11,10 +11,13 @@
 	"version": "v1.0.0",
 	"developer": "BookCatKid",
 	"description": "Black out your screen after every click",
+	"links": {
+		"source": "https://github.com/BookCatKid/Blackout-Click"
+	},
 	"settings": {
 		"duration": {
 			"type": "float",
-			"default": 0.5,
+			"default": 0.2,
 			"min": 0,
 			"max": 5,
 			"name": "Blackout Duration (seconds)"
